@@ -1,7 +1,4 @@
 
-
-
-
 # Página Web dos Vingadores
 
 Este repositório contém os arquivos de código-fonte para uma página web dedicada aos Vingadores, os heróis icônicos do Universo Cinematográfico Marvel (MCU).
@@ -27,6 +24,8 @@ O projeto está organizado da seguinte forma:
 
 Desenvolvido com 💥 por [Roseane da Silva].
 
-##Video do projeto
+## Link do Projeto 
+
+http://127.0.0.1:5500/Vingadores/idex.html
 
 https://github.com/user-attachments/assets/01f75b19-640d-4cf1-954d-a8fbe203288a
